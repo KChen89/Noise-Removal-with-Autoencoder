@@ -20,6 +20,6 @@ Noise amplitude has been scaled such that the energy of noise is 70% of signal.
 Under noise condition, detecting heartbeat location becomes more difficult. Combine signal processing with autoencoder will produce more robust result.
 - [x] Autoencoder.
 - [x] Noise removal on different types of beats assuming R peak correctly detected.
-- [ ] Robust detection of R peak under strong noise condition.
 - [ ] Automatic estimating the level of noise.
+- [ ] Enable R peak detection using autocoder
 
